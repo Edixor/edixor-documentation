@@ -16,6 +16,20 @@ To interact with the system, you’ll need to import the `ExTools` namespace:
 using ExTools;
 ```
 
+### Configuration
+
+After unpacking the `.unitypackage` into your project, you can configure Edixor by navigating to:
+
+`Edixor/Editor/Settings/Assets/`
+
+There you’ll find several ScriptableObjects.\
+The one we need is **`OtherEdixorSetting`**.
+
+In addition to information about the current build, you’ll find the following configuration option:
+
+* `enableConsoleLogging` — Determines whether internal Edixor logs are shown in the main Unity Console.\
+  If disabled, logs will only be available in the **Debug** tab inside Edixor.
+
 ### Creating EdixorWindows
 
 You can now proceed to [creating your custom windows](https://github.com/Edixor/edixor-documentation/tree/main/edixor)
