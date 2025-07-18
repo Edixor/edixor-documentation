@@ -1,7 +1,25 @@
-# Table of contents
+# Summary
 
-* [README](README.md)
-
-## Group 1
-
-* [Page 1](group-1/page-1.md)
+- [Why Edixor?](why-edixor.md)
+- [Getting Started](getting-started.md)
+- [Edixor](edixor/index.md)
+  - [EdixorWindow](edixor/window.md)
+  - [EdixorInspection](edixor/inspection.md)
+- [Configuration](configuration/index.md)
+  - [Functions](configuration/functions.md)
+  - [Statuses](configuration/statuses.md)
+  - [Hotkeys](configuration/hotkeys.md)
+  - [Styles & Layouts](configuration/styles-layouts.md)
+  - [Other Parameters](configuration/other.md)
+- [EdixorTab Development](tab-development/index.md)
+  - [Lifecycle](tab-development/lifecycle.md)
+  - [Working with Functions](tab-development/functions.md)
+  - [Working with Statuses](tab-development/statuses.md)
+  - [Working with Hotkeys](tab-development/hotkeys.md)
+  - [Working with Styles & Layout](tab-development/styles-layouts.md)
+- [Utilities](utilities/index.md)
+  - [Locator](utilities/locator.md)
+  - [Debug](utilities/debug.md)
+- [Custom Content](custom/index.md)
+  - [Menu](custom/menu.md)
+  - [Enum](custom/enum.md)
