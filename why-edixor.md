@@ -33,5 +33,3 @@ Edixor also provides a documentation system that is deeply integrated into the U
 ## Publish to Edixor Extensions
 
 Most importantly, you can submit your work to **Edixor** for moderation and inclusion in the main Edixor ecosystem via the [edixor-extension repository.](https://github.com/Edixor/edixor-extensions)
-
-→ [**Read more about publishing and moderation**](configuration/publishing.md)
