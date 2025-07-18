@@ -1,2 +1,0 @@
-# EdixorTab Development
-

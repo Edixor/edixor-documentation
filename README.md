@@ -1,1 +1,1 @@
-# edixor-documentation
+# Edixor Documentation
