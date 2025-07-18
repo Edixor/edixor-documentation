@@ -1,12 +1,13 @@
 # Configuration
 
-## Конфигурации Edixor
+## Edixor Configurations
 
-В этом разделе собраны все инструкции по настройке и расширению Edixor:
+Welcome to the **Configurations** section of the Edixor documentation.\
+Here you will find detailed guides on how to extend and customize Edixor’s behavior:
 
-* Функции (MyFunction)
-* Горячие клавиши (MyHotKey)
-* Статусы (MyStatus)
-* Стили (StyleSetup)
+* Functions
+* HotKeys
+* Statuses
+* Styles
 
-_Раздел находится в разработке: подробности по layout и другим параметрам будут добавлены позже._
+> ⚠️ **Note**: This section is under development and may be updated with additional details soon.
